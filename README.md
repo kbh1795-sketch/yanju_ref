@@ -16,12 +16,12 @@
 
 - `<category>/<defect|normal>/<category>_<label>_NN.png`
 - `labels.csv`: file, category, label, region(KR/overseas), source_title, source_url, license, author
-- 정상(normal) 이미지는 모두 한국 사진이고, 파손(defect) 이미지는 대부분 해외 사진입니다. 지역 편향에 유의하세요.
+- 한국 파손 사진을 찾기에는 조금 제한이 있어 정상(normal) 이미지는 모두 한국 사진이고, 파손(defect) 이미지는 대부분 해외 사진입니다. 그러나 지역 편향은 크게 있을 것 같진 않습니다.
 
 ## 라이선스 및 저작자 표기
 
 모든 이미지는 [Wikimedia Commons](https://commons.wikimedia.org)에서 가져왔으며, 각 이미지는 원본의 라이선스를 따릅니다.
-CC BY-SA 이미지를 수정·재배포할 경우 같은 라이선스를 적용해야 합니다. 원본은 JPEG에서 PNG로 변환하고 축소했습니다.
+CC BY-SA 이미지를 수정·재배포할 경우 같은 라이선스를 하고, 원본은 JPEG에서 PNG로 변환하고 축소했습니다.
 
 | 파일 | 원본 | 저작자 | 라이선스 |
 |---|---|---|---|
