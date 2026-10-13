@@ -1,0 +1,51 @@
+﻿id,category,message,label,sample_type,source_reference,source_url,note
+1,택배·배송,[택배알림] 주소 오류로 배송이 보류되었습니다. 배송지 확인:,smishing,공개 사례 기반 재구성,KISA 스미싱 주의보 (2024-01-04),https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000030&menuNo=205027&nttId=71280,실제 수신 원문 아님; URL 비활성화
+2,택배·배송,고객님 택배가 반송 예정입니다. 수령 주소를 수정해주세요.,smishing,공개 사례 기반 재구성,KISA 스미싱 주의보 (2024-01-04),https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000030&menuNo=205027&nttId=71280,실제 수신 원문 아님; URL 비활성화
+3,택배·배송,[배송센터] 부재중으로 물품 전달 실패. 재배송 신청:,smishing,공개 사례 기반 재구성,KISA 스미싱 주의보 (2024-01-04),https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000030&menuNo=205027&nttId=71280,실제 수신 원문 아님; URL 비활성화
+4,택배·배송,통관 배송 정보가 일치하지 않습니다. 확인 부탁드립니다.,smishing,공개 사례 기반 재구성,KISA 스미싱 주의보 (2024-01-04),https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000030&menuNo=205027&nttId=71280,실제 수신 원문 아님; URL 비활성화
+5,택배·배송,오늘 배송 예정인 상품의 수취인 확인이 필요합니다.,smishing,공개 사례 기반 재구성,KISA 스미싱 주의보 (2024-01-04),https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000030&menuNo=205027&nttId=71280,실제 수신 원문 아님; URL 비활성화
+6,교통·과태료,[교통민원] 속도위반 과태료 미납 안내. 상세조회:,smishing,공개 사례 기반 재구성,KISA 행정처분 스미싱 주의 (2025-08-21),https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000133&menuNo=205021&nttId=71846,실제 수신 원문 아님; URL 비활성화
+7,교통·과태료,주정차 위반 사실이 접수되었습니다. 통지서 확인:,smishing,공개 사례 기반 재구성,KISA 행정처분 스미싱 주의 (2025-08-21),https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000133&menuNo=205021&nttId=71846,실제 수신 원문 아님; URL 비활성화
+8,교통·과태료,[안내] 교통법규 위반 벌점이 등록되었습니다. 확인:,smishing,공개 사례 기반 재구성,KISA 행정처분 스미싱 주의 (2025-08-21),https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000133&menuNo=205021&nttId=71846,실제 수신 원문 아님; URL 비활성화
+9,교통·과태료,도로교통 과태료 납부기한이 임박했습니다. 조회:,smishing,공개 사례 기반 재구성,KISA 행정처분 스미싱 주의 (2025-08-21),https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000133&menuNo=205021&nttId=71846,실제 수신 원문 아님; URL 비활성화
+10,교통·과태료,[행정알림] 차량 관련 범칙금 고지서가 발송되었습니다.,smishing,공개 사례 기반 재구성,KISA 행정처분 스미싱 주의 (2025-08-21),https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000133&menuNo=205021&nttId=71846,실제 수신 원문 아님; URL 비활성화
+11,부고·장례,부친께서 별세하셨기에 부고를 전합니다. 빈소 안내:,smishing,공개 사례 기반 재구성,KISA 스미싱 주의보 (2024-01-04),https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000030&menuNo=205027&nttId=71280,실제 수신 원문 아님; URL 비활성화
+12,부고·장례,갑작스럽게 소식을 전합니다. 장례식장 위치 확인:,smishing,공개 사례 기반 재구성,KISA 스미싱 주의보 (2024-01-04),https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000030&menuNo=205027&nttId=71280,실제 수신 원문 아님; URL 비활성화
+13,부고·장례,[부고] ○○님의 모친상 안내드립니다.,smishing,공개 사례 기반 재구성,KISA 스미싱 주의보 (2024-01-04),https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000030&menuNo=205027&nttId=71280,실제 수신 원문 아님; URL 비활성화
+14,부고·장례,마지막 인사를 전해드립니다. 조문 안내장:,smishing,공개 사례 기반 재구성,KISA 스미싱 주의보 (2024-01-04),https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000030&menuNo=205027&nttId=71280,실제 수신 원문 아님; URL 비활성화
+15,부고·장례,지인 부고 소식입니다. 발인 일정은 여기서 확인해주세요.,smishing,공개 사례 기반 재구성,KISA 스미싱 주의보 (2024-01-04),https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000030&menuNo=205027&nttId=71280,실제 수신 원문 아님; URL 비활성화
+16,결혼·초대,저 결혼합니다. 모바일 청첩장 보내드립니다.,smishing,공개 사례 기반 재구성,KISA 청첩장 스미싱 주의 (2025-03-11),https://boho.or.kr/kr/bbs/view.do?bbsId=B0000133&menuNo=205020&nttId=71676,실제 수신 원문 아님; URL 비활성화
+17,결혼·초대,[초대장] 예식 날짜와 장소를 확인해주세요.,smishing,공개 사례 기반 재구성,KISA 청첩장 스미싱 주의 (2025-03-11),https://boho.or.kr/kr/bbs/view.do?bbsId=B0000133&menuNo=205020&nttId=71676,실제 수신 원문 아님; URL 비활성화
+18,결혼·초대,오랜만이에요. 결혼식에 꼭 와주세요. 청첩장:,smishing,공개 사례 기반 재구성,KISA 청첩장 스미싱 주의 (2025-03-11),https://boho.or.kr/kr/bbs/view.do?bbsId=B0000133&menuNo=205020&nttId=71676,실제 수신 원문 아님; URL 비활성화
+19,결혼·초대,결혼 소식 전합니다. 참석 여부 확인 부탁드려요.,smishing,공개 사례 기반 재구성,KISA 청첩장 스미싱 주의 (2025-03-11),https://boho.or.kr/kr/bbs/view.do?bbsId=B0000133&menuNo=205020&nttId=71676,실제 수신 원문 아님; URL 비활성화
+20,결혼·초대,가족 행사 초대장을 보냈습니다. 내용 확인:,smishing,공개 사례 기반 재구성,KISA 청첩장 스미싱 주의 (2025-03-11),https://boho.or.kr/kr/bbs/view.do?bbsId=B0000133&menuNo=205020&nttId=71676,실제 수신 원문 아님; URL 비활성화
+21,건강보험·검진,[건강검진] 통보 결과가 등록되었습니다. 확인:,smishing,공개 사례 기반 재구성,KISA 스미싱 주의보 (2024-01-04),https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000030&menuNo=205027&nttId=71280,실제 수신 원문 아님; URL 비활성화
+22,건강보험·검진,[보험안내] 검진 내역 미확인으로 재안내드립니다.,smishing,공개 사례 기반 재구성,KISA 스미싱 주의보 (2024-01-04),https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000030&menuNo=205027&nttId=71280,실제 수신 원문 아님; URL 비활성화
+23,건강보험·검진,국민건강검진 결과 열람 기한 안내:,smishing,공개 사례 기반 재구성,KISA 스미싱 주의보 (2024-01-04),https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000030&menuNo=205027&nttId=71280,실제 수신 원문 아님; URL 비활성화
+24,건강보험·검진,[의료알림] 검사 결과서를 확인해주세요.,smishing,공개 사례 기반 재구성,KISA 스미싱 주의보 (2024-01-04),https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000030&menuNo=205027&nttId=71280,실제 수신 원문 아님; URL 비활성화
+25,건강보험·검진,건강보험 자격 확인 요청이 접수되었습니다.,smishing,공개 사례 기반 재구성,KISA 스미싱 주의보 (2024-01-04),https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000030&menuNo=205027&nttId=71280,실제 수신 원문 아님; URL 비활성화
+26,세금·환급,[국세 안내] 미수령 환급금이 있습니다. 조회:,smishing,공개 사례 기반 재구성,KISA 스미싱 유형 참고,https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000131&menuNo=205056&nttId=70214,실제 수신 원문 아님; URL 비활성화
+27,세금·환급,세금 납부 안내문이 도착했습니다. 확인 바랍니다.,smishing,공개 사례 기반 재구성,KISA 스미싱 유형 참고,https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000131&menuNo=205056&nttId=70214,실제 수신 원문 아님; URL 비활성화
+28,세금·환급,[환급안내] 신청 기한 전 계좌 확인이 필요합니다.,smishing,공개 사례 기반 재구성,KISA 스미싱 유형 참고,https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000131&menuNo=205056&nttId=70214,실제 수신 원문 아님; URL 비활성화
+29,세금·환급,지방세 미납 내역을 확인해주세요.,smishing,공개 사례 기반 재구성,KISA 스미싱 유형 참고,https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000131&menuNo=205056&nttId=70214,실제 수신 원문 아님; URL 비활성화
+30,세금·환급,연말정산 환급 대상 확인 안내:,smishing,공개 사례 기반 재구성,KISA 스미싱 유형 참고,https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000131&menuNo=205056&nttId=70214,실제 수신 원문 아님; URL 비활성화
+31,금융·계좌,[금융알림] 계좌에서 이상거래가 감지되었습니다. 확인:,smishing,공개 사례 기반 재구성,KISA 스미싱 유형 참고,https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000131&menuNo=205056&nttId=70214,실제 수신 원문 아님; URL 비활성화
+32,금융·계좌,카드 결제 승인 내역이 의심됩니다. 거래 조회:,smishing,공개 사례 기반 재구성,KISA 스미싱 유형 참고,https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000131&menuNo=205056&nttId=70214,실제 수신 원문 아님; URL 비활성화
+33,금융·계좌,[보안안내] 인터넷뱅킹 사용 제한 예정. 본인확인:,smishing,공개 사례 기반 재구성,KISA 스미싱 유형 참고,https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000131&menuNo=205056&nttId=70214,실제 수신 원문 아님; URL 비활성화
+34,금융·계좌,대출 심사 결과가 나왔습니다. 내용 확인:,smishing,공개 사례 기반 재구성,KISA 스미싱 유형 참고,https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000131&menuNo=205056&nttId=70214,실제 수신 원문 아님; URL 비활성화
+35,금융·계좌,[카드사 알림] 본인 명의 신규 발급 신청 확인 요청:,smishing,공개 사례 기반 재구성,KISA 스미싱 유형 참고,https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000131&menuNo=205056&nttId=70214,실제 수신 원문 아님; URL 비활성화
+36,계정·SNS,[계정 보안] 새 기기에서 로그인이 감지되었습니다.,smishing,공개 사례 기반 재구성,KISA 명절 스미싱 경보의 SNS 계정탈취 유형 참고,https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000133&menuNo=205023&nttId=71966,실제 수신 원문 아님; URL 비활성화
+37,계정·SNS,메신저 계정 정지 예정입니다. 확인 절차:,smishing,공개 사례 기반 재구성,KISA 명절 스미싱 경보의 SNS 계정탈취 유형 참고,https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000133&menuNo=205023&nttId=71966,실제 수신 원문 아님; URL 비활성화
+38,계정·SNS,[SNS 알림] 비정상 활동으로 계정 인증 필요.,smishing,공개 사례 기반 재구성,KISA 명절 스미싱 경보의 SNS 계정탈취 유형 참고,https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000133&menuNo=205023&nttId=71966,실제 수신 원문 아님; URL 비활성화
+39,계정·SNS,비밀번호 변경 요청이 접수되었습니다. 본인이 아니면 확인:,smishing,공개 사례 기반 재구성,KISA 명절 스미싱 경보의 SNS 계정탈취 유형 참고,https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000133&menuNo=205023&nttId=71966,실제 수신 원문 아님; URL 비활성화
+40,계정·SNS,계정 이용약관 위반 통지. 이의신청:,smishing,공개 사례 기반 재구성,KISA 명절 스미싱 경보의 SNS 계정탈취 유형 참고,https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000133&menuNo=205023&nttId=71966,실제 수신 원문 아님; URL 비활성화
+41,상품권·이벤트,[당첨안내] 모바일 상품권이 지급되었습니다. 수령:,smishing,공개 사례 기반 재구성,KISA 명절 스미싱 경보의 선물 위장 유형 참고,https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000133&menuNo=205023&nttId=71966,실제 수신 원문 아님; URL 비활성화
+42,상품권·이벤트,기프티콘 유효기간이 곧 종료됩니다. 확인:,smishing,공개 사례 기반 재구성,KISA 명절 스미싱 경보의 선물 위장 유형 참고,https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000133&menuNo=205023&nttId=71966,실제 수신 원문 아님; URL 비활성화
+43,상품권·이벤트,[이벤트] 경품 수령을 위해 정보 확인 부탁드립니다.,smishing,공개 사례 기반 재구성,KISA 명절 스미싱 경보의 선물 위장 유형 참고,https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000133&menuNo=205023&nttId=71966,실제 수신 원문 아님; URL 비활성화
+44,상품권·이벤트,추석 선물이 도착했습니다. 선물함 열기:,smishing,공개 사례 기반 재구성,KISA 명절 스미싱 경보의 선물 위장 유형 참고,https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000133&menuNo=205023&nttId=71966,실제 수신 원문 아님; URL 비활성화
+45,상품권·이벤트,적립 포인트 소멸 예정입니다. 전환 신청:,smishing,공개 사례 기반 재구성,KISA 명절 스미싱 경보의 선물 위장 유형 참고,https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000133&menuNo=205023&nttId=71966,실제 수신 원문 아님; URL 비활성화
+46,생활민원·공공기관,[환경 민원] 쓰레기 무단투기 신고가 접수되었습니다.,smishing,공개 사례 기반 재구성,KISA 행정처분 스미싱 주의 (2025-08-21),https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000133&menuNo=205021&nttId=71846,실제 수신 원문 아님; URL 비활성화
+47,생활민원·공공기관,[민원안내] 수도요금 미납 고지서 확인:,smishing,공개 사례 기반 재구성,KISA 행정처분 스미싱 주의 (2025-08-21),https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000133&menuNo=205021&nttId=71846,실제 수신 원문 아님; URL 비활성화
+48,생활민원·공공기관,재난지원금 지급 대상 확인 안내:,smishing,공개 사례 기반 재구성,KISA 행정처분 스미싱 주의 (2025-08-21),https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000133&menuNo=205021&nttId=71846,실제 수신 원문 아님; URL 비활성화
+49,생활민원·공공기관,[공공알림] 주민등록 사실조사 미완료 안내.,smishing,공개 사례 기반 재구성,KISA 행정처분 스미싱 주의 (2025-08-21),https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000133&menuNo=205021&nttId=71846,실제 수신 원문 아님; URL 비활성화
+50,생활민원·공공기관,[생활민원] 불법투기 과태료 부과내역 조회:,smishing,공개 사례 기반 재구성,KISA 행정처분 스미싱 주의 (2025-08-21),https://www.boho.or.kr/kr/bbs/view.do?bbsId=B0000133&menuNo=205021&nttId=71846,실제 수신 원문 아님; URL 비활성화
